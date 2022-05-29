@@ -1,2 +1,5 @@
-# xtx-keygen-crackme2-dynasty
-Keygen CrackMe #2.
+# Keygen CrackMe #2.
+
+#### Written in 2008 April.
+
+[Original package](https://defacto2.net/f/b42d786)
